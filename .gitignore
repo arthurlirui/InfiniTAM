@@ -18,3 +18,5 @@ x64/
 
 # QtCreator CMake
 CMakeLists.txt.user*
+/data/dataset01-0922-2058
+/demo_out

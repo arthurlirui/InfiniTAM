@@ -1,0 +1,3 @@
+[submodule "third_party/eskf_vgm"]
+	path = third_party/eskf_vgm
+	url = https://github.com/arthurlirui/eskf_vgm.git
